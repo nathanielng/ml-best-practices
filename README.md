@@ -9,3 +9,9 @@
 3. **Approach**:
    - what are the questions I am asking, and am I asking the right questions?
    - do I have the right approach? am I starting with a preconceived idea and just looking to find data that will support my case? am I p-hacking?
+
+## Ethics, Security, Complaince
+
+1. **Ethics**: could there any ethical impact if the model is deployed, or if the data (or model) is leaked?
+2. **Compliance**: are there any relevant regulations that need to be complied with? for example, is any form of personal data involved?
+3. **Security**: is data security and/or encryption an important consideration?
