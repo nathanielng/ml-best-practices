@@ -21,3 +21,12 @@
 ### Data Acquisition & Accessibility
 
 - how accessible is the dataset? and how much will it cost to acquire new data points? is any part of the data behind paywalls, or controlled by external parties reluctant to provide access to the data? could the situation change (for the better or for the worse) at any point in time during the lifetime of the project?
+
+### Data Completeness
+
+- how representative is the data of the entire population?
+- could there be any missing features (variables) that
+  could change the conclusions of the analysis (and are therefore needed for the model)?
+- is the sample size sufficient for the number of features being trained on
+  (what is the ratio of the number of data points to the number of features)?
+  Could data sparsity be an issue in any particular part of the dataset?
