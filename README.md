@@ -15,3 +15,9 @@
 1. **Ethics**: could there any ethical impact if the model is deployed, or if the data (or model) is leaked?
 2. **Compliance**: are there any relevant regulations that need to be complied with? for example, is any form of personal data involved?
 3. **Security**: is data security and/or encryption an important consideration?
+
+## Data
+
+### Data Acquisition & Accessibility
+
+- how accessible is the dataset? and how much will it cost to acquire new data points? is any part of the data behind paywalls, or controlled by external parties reluctant to provide access to the data? could the situation change (for the better or for the worse) at any point in time during the lifetime of the project?
