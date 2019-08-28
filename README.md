@@ -30,3 +30,10 @@
 - is the sample size sufficient for the number of features being trained on
   (what is the ratio of the number of data points to the number of features)?
   Could data sparsity be an issue in any particular part of the dataset?
+
+### Errors & Inconsistencies
+- are there any errors or inconsistencies in the dataset? are there any measurement errors, bias in the dataset?
+
+### Metadata
+- is there sufficient documentation on the dataset - how the data was acquired, a description of the column headers, any codes in the dataset, what are the units of the numerical data columns, etc
+
