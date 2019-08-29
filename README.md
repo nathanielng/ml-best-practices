@@ -20,7 +20,8 @@
 
 ### Data Acquisition & Accessibility
 
-- how accessible is the dataset? and how much will it cost to acquire new data points? is any part of the data behind paywalls, or controlled by external parties reluctant to provide access to the data? could the situation change (for the better or for the worse) at any point in time during the lifetime of the project?
+- how accessible is the dataset? and how much will it cost to acquire new data points? is any part of the data behind paywalls, or controlled by external parties reluctant to provide access to the data? will there be a need to provide a justification for why the data might be needed, and the expected benefits of obtaining that data?
+- could the situation change (for the better or for the worse) at any point in time during the lifetime of the project?
 
 ### Data Completeness
 
