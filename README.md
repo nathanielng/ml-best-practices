@@ -32,8 +32,14 @@
   Could data sparsity be an issue in any particular part of the dataset?
 
 ### Errors & Inconsistencies
+
 - are there any errors or inconsistencies in the dataset? are there any measurement errors, bias in the dataset?
 
 ### Metadata
+
 - is there sufficient documentation on the dataset - how the data was acquired, a description of the column headers, any codes in the dataset, what are the units of the numerical data columns, etc
 
+### Effort
+
+- how clean is the data and how much effort is required to convert it into a processable, analyzable form
+- is there any additional work that might be required to create new features from the dataset?
