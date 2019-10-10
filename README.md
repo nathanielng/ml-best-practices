@@ -32,6 +32,13 @@
   (what is the ratio of the number of data points to the number of features)?
   Could data sparsity be an issue in any particular part of the dataset?
 
+### Data Checks
+
+- has there been a check for highly correlated inputs?
+- has the model been tested against a baseline model?
+- has there been a check for any possibility of data leakage between the training set and the test set?
+- are any of the columns designated as "input" columns actually "output" columns?
+
 ### Errors & Inconsistencies
 
 - are there any errors or inconsistencies in the dataset? are there any measurement errors, bias in the dataset?
